@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\fdeitaze\.android\build-cache\5ed391016087cb412efe56edb3d735d0fc151d80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\fdeitaze\Google Drive\Workspace\Android\Ubisame\app\build\intermediates\pre-dexed\debug\classes_ce1b55acc5ab573e2f2f40213e613759ec886725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fdeitaze\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\fdeitaze\Google Drive\Workspace\Android\Ubisame\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_186683eefdc4998ccc61cc7bbc1e455eb6902c78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fdeitaze\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\fdeitaze\Google Drive\Workspace\Android\Ubisame\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_875e1f46cecb9495492c70c67ed7d0a38378b60a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fdeitaze\.android\build-cache\5dea1475026c08987ea20db880aeb72d0eb749fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\fdeitaze\Google Drive\Workspace\Android\Ubisame\app\build\intermediates\pre-dexed\debug\classes_7a016394a3bd5653c7b9be17694c27bb1cdada47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fdeitaze\.android\build-cache\0bf78b11c6866df9afcabd6bacb31297efebafa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\fdeitaze\Google Drive\Workspace\Android\Ubisame\app\build\intermediates\pre-dexed\debug\classes_2a7fda89775e8094dd7292f828b670ebfa1a06e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fdeitaze\.android\build-cache\044f09ba0730e067e92ddf8d89181813bfe95cdf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\fdeitaze\Google Drive\Workspace\Android\Ubisame\app\build\intermediates\pre-dexed\debug\classes_39541470e10f1434330db294764c3a7d6925e73f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fdeitaze\.android\build-cache\cf6b99e067fc2ce5c27a8fd1575dc28228f019cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\fdeitaze\Google Drive\Workspace\Android\Ubisame\app\build\intermediates\pre-dexed\debug\classes_1dc5575ad93c624a688a292d4ab21c669a6f2966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fdeitaze\.android\build-cache\d05ae7eefc554443f72dbc4537e987a6652a75c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\fdeitaze\Google Drive\Workspace\Android\Ubisame\app\build\intermediates\pre-dexed\debug\classes_f81fc9d44d82ee3f2fbcf745d16c91d8716efcde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fdeitaze\.android\build-cache\2563945c8872c3269c81af8e53d104f0c0f171db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\fdeitaze\Google Drive\Workspace\Android\Ubisame\app\build\intermediates\pre-dexed\debug\classes_0fd0ff2f7beb7d4bf3af61ec887d745eea0a5f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fdeitaze\.android\build-cache\d3ee79ddc3426ca4d858f53cb0a5af2c860760b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\fdeitaze\Google Drive\Workspace\Android\Ubisame\app\build\intermediates\pre-dexed\debug\classes_ffe33c11357cbe3db1e2e4b1f6334ee04bb2afdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fdeitaze\.android\build-cache\fe74e0332fed2ffbc1c28d729899eec92b7927a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\fdeitaze\Google Drive\Workspace\Android\Ubisame\app\build\intermediates\pre-dexed\debug\classes_6286d91e89602af737afd40b8a864e824ac490ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fdeitaze\.android\build-cache\7aa002f8c8f36de147a4f2180cd2c88cb5e418d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\fdeitaze\Google Drive\Workspace\Android\Ubisame\app\build\intermediates\pre-dexed\debug\classes_e101b1b7ecf0d59490dab536de59a1ac80d825df.jar" />
+    </item>
+
+</items>

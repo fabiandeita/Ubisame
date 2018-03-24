@@ -1,0 +1,229 @@
+[14-Mar-2018 00:37:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:40:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:40:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:40:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:48:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ubisame'@'localhost' (using password: YES) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:48:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ubisame'@'localhost' (using password: YES) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:48:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ubisame'@'localhost' (using password: YES) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:48:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ubisame'@'localhost' (using password: YES) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:53:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ubisame'@'localhost' (using password: YES) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:53:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ubisame'@'localhost' (using password: YES) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:53:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ubisame'@'localhost' (using password: YES) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:53:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ubisame'@'localhost' (using password: YES) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:53:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ubisame'@'localhost' (using password: YES) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:56:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:56:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 00:56:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:00:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:00:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:01:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:01:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:01:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:01:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:01:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:01:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:01:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:01:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:01:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:01:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:02:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:02:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:02:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:03:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:03:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:03:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:03:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:03:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:03:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:03:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 01:04:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:04:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:04:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:04:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:04:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:04:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:04:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:05:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:06:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:06:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:07:35 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:07:36 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:07:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:08:03 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 5
+[14-Mar-2018 01:08:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:08:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:09:02 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:09:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:09:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:09:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:09:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:10:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:10:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:11:17 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:12:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:12:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:13:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:13:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:13:56 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:17:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:17:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:18:17 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:18:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:18:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:18:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:18:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:23 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:19:48 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:20:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:20:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:20:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 01:21:32 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 14
+[14-Mar-2018 01:21:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 14
+[14-Mar-2018 01:22:34 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 14
+[14-Mar-2018 01:22:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 14
+[14-Mar-2018 01:23:07 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 14
+[14-Mar-2018 01:23:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 14
+[14-Mar-2018 01:24:04 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 14
+[14-Mar-2018 01:24:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 14
+[14-Mar-2018 01:24:50 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 01:24:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 01:24:51 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 01:24:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 01:24:52 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 01:24:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 01:25:06 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 01:25:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 01:25:31 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:25:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:26:16 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:26:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:27:52 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:27:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:07 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:34 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:35 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:35 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:36 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:36 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:36 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:36 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:36 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:37 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:40 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:40 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:40 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:28:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:12 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:13 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:13 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:13 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:13 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:15 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:29 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:30 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:30 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:30 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:30 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:31 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 01:29:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 16:01:29 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 16:01:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 16:02:14 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 16:02:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 16:02:20 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 16:02:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 16:06:24 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 16:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 16:06:27 UTC] PHP Notice:  Undefined variable: connection in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 16:06:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabiandeita/public_html/Ubisame/index.php on line 13
+[14-Mar-2018 16:07:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://tecnologiasdenegocio.coadsm:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 8
+[14-Mar-2018 16:07:55 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 16:07:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:08:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 8
+[14-Mar-2018 16:08:41 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 16:08:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:08:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 8
+[14-Mar-2018 16:08:44 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 16:08:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:09:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 16:09:39 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 7
+[14-Mar-2018 16:09:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:10:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 6
+[14-Mar-2018 16:10:05 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 7
+[14-Mar-2018 16:10:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:11:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://tecnologiasdenegocio.coadsm:3306' (2) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 8
+[14-Mar-2018 16:11:48 UTC] PHP Notice:  Undefined variable: mysqli in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 11
+[14-Mar-2018 16:11:48 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 11
+[14-Mar-2018 16:11:48 UTC] PHP Notice:  Undefined variable: mysqli in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 11
+[14-Mar-2018 16:11:48 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 11
+[14-Mar-2018 16:11:48 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:12:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 8
+[14-Mar-2018 16:12:08 UTC] PHP Notice:  Undefined variable: mysqli in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 11
+[14-Mar-2018 16:12:08 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 11
+[14-Mar-2018 16:12:08 UTC] PHP Notice:  Undefined variable: mysqli in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 11
+[14-Mar-2018 16:12:08 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 11
+[14-Mar-2018 16:12:08 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:12:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 8
+[14-Mar-2018 16:12:11 UTC] PHP Notice:  Undefined variable: mysqli in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 11
+[14-Mar-2018 16:12:11 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 11
+[14-Mar-2018 16:12:11 UTC] PHP Notice:  Undefined variable: mysqli in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 11
+[14-Mar-2018 16:12:11 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 11
+[14-Mar-2018 16:12:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:16:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'http://tecnologiasdenegocio.com:3306' (2) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 7
+[14-Mar-2018 16:16:08 UTC] PHP Notice:  Undefined variable: mysqli in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 16:16:08 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 16:16:08 UTC] PHP Notice:  Undefined variable: mysqli in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 16:16:08 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 16:16:08 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:16:08 UTC] PHP Notice:  Undefined variable: sql in /home/fabiandeita/public_html/Ubisame/index.php on line 15
+[14-Mar-2018 16:16:08 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/fabiandeita/public_html/Ubisame/index.php on line 15
+[14-Mar-2018 16:17:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'tecnologiasdenegocio.com:3306' (0) in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 7
+[14-Mar-2018 16:17:52 UTC] PHP Notice:  Undefined variable: mysqli in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 16:17:52 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 16:17:52 UTC] PHP Notice:  Undefined variable: mysqli in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 16:17:52 UTC] PHP Notice:  Trying to get property of non-object in /home/fabiandeita/public_html/Ubisame/phpsqlajax_dbinfo.php on line 10
+[14-Mar-2018 16:17:52 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:17:52 UTC] PHP Notice:  Undefined variable: sql in /home/fabiandeita/public_html/Ubisame/index.php on line 15
+[14-Mar-2018 16:17:52 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/fabiandeita/public_html/Ubisame/index.php on line 15
+[14-Mar-2018 16:18:07 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:18:07 UTC] PHP Notice:  Undefined variable: sql in /home/fabiandeita/public_html/Ubisame/index.php on line 15
+[14-Mar-2018 16:19:59 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:20:43 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:21:13 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:21:34 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/fabiandeita/public_html/Ubisame/index.php on line 12
+[14-Mar-2018 16:22:38 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/fabiandeita/public_html/Ubisame/index.php on line 12

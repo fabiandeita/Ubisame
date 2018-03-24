@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\fdeitaze\\Google Drive\\Workspace\\Android\\Ubisame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\fdeitaze\\.android\\build-cache\\044f09ba0730e067e92ddf8d89181813bfe95cdf\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\fdeitaze\\Google Drive\\Workspace\\Android\\Ubisame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\fdeitaze\\.android\\build-cache\\044f09ba0730e067e92ddf8d89181813bfe95cdf\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\fdeitaze\\Google Drive\\Workspace\\Android\\Ubisame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\fdeitaze\\.android\\build-cache\\044f09ba0730e067e92ddf8d89181813bfe95cdf\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\fdeitaze\\Google Drive\\Workspace\\Android\\Ubisame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\fdeitaze\\.android\\build-cache\\044f09ba0730e067e92ddf8d89181813bfe95cdf\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\fdeitaze\\Google Drive\\Workspace\\Android\\Ubisame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\fdeitaze\\.android\\build-cache\\044f09ba0730e067e92ddf8d89181813bfe95cdf\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\fdeitaze\\Google Drive\\Workspace\\Android\\Ubisame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\fdeitaze\\.android\\build-cache\\044f09ba0730e067e92ddf8d89181813bfe95cdf\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]
